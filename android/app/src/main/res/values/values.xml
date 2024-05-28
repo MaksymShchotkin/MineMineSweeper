@@ -1,0 +1,9 @@
+<resources>
+    <string name="firebase_database_url" translatable="false">https://mineminesweeperbase-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="gcm_defaultSenderId" translatable="false">772085261748</string>
+    <string name="google_api_key" translatable="false">AIzaSyDUymWwh5ayMO5DaeB-ee42lOTPnkpts_U</string>
+    <string name="google_app_id" translatable="false">1:772085261748:android:c6ad436a1491ffd8d9bee1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="google_storage_bucket" translatable="false">mineminesweeperbase.appspot.com</string>
+    <string name="project_id" translatable="false">mineminesweeperbase</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772085261748",
+    "project_id": "mineminesweeperbase",
+    "storage_bucket": "mineminesweeperbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772085261748:android:c6ad436a1491ffd8d9bee1",
+        "android_client_info": {
+          "package_name": "com.example.fixed_minesweeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUymWwh5ayMO5DaeB-ee42lOTPnkpts_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
